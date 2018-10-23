@@ -1,1 +1,3 @@
-#LABORATORIO3\nModelo del Primer Parcial
+#LABORATORIO3
+
+Modelo del Primer Parcial
