@@ -83,6 +83,10 @@ th{
     background-color: #5fcf80;
 }
 
+#formulario{
+    display: none;
+}
+
 /************************ PLANTILLA FORMULARIO **************************/
 
 *, *:before, *:after {
